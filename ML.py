@@ -167,6 +167,12 @@ HtmlTemplate = Template('''
         <h4>The decision tree starting from any of the two data sets obtains the same accuracy.</h4>
     <img src="data:image/png;base64,{{ image1 }}" alt="Graph 1">
     <img src="data:image/png;base64,{{ image2 }}" alt="Graph 2">
+    </h2><strong>Arkano.eth</strong><h2>
+    <style>
+        {
+            text-align: right;
+        }
+    </style>
     </p>
 </body>
 </html>
