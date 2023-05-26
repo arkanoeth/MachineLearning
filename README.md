@@ -19,7 +19,6 @@ You can install these dependencies using the pip package manager by running the 
 
 _pip install scikit-learn matplotlib IPython jinja2_
 
-
 ## Running the Code
 
 To run the code, simply execute the Python script. Ensure that you have the necessary datasets and dependencies installed.
