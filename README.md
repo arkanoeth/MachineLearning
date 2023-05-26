@@ -50,7 +50,7 @@ Once you have installed the dependencies and executed the script, you should see
 - Writes the output to an HTML file named "my_page.html".
 - Opens the HTML file in a web browser.
 
-This is the output of the code:
+## Output of the code:
 
 ![image](https://github.com/arkanoeth/MachineLearning/assets/62271657/4de5398a-e953-4f62-90e5-d16462fed963)
 
